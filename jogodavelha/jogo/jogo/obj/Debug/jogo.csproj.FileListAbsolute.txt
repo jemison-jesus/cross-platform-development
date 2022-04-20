@@ -1,0 +1,9 @@
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\obj\Debug\jogo.csprojAssemblyReference.cache
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\obj\Debug\jogo.Form1.resources
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\obj\Debug\jogo.Properties.Resources.resources
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\obj\Debug\jogo.csproj.GenerateResource.cache
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\bin\Debug\jogo.exe.config
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\bin\Debug\jogo.exe
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\bin\Debug\jogo.pdb
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\obj\Debug\jogo.exe
+D:\aluno22021.ds\Desktop\jogodavelha\jogo\jogo\obj\Debug\jogo.pdb
